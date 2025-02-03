@@ -1,0 +1,34 @@
+API pypi
+Flask (backeend FrameWork) --> dash
+
+
+fastapi (most important API farmework) 
+gradio (for UI and API)
+vs
+streamit build UI from python don't need `HTML`,
+
+
+the framework that we need
+
+fastapi (most important API farmework) 
+but so work it needs server
+so---> 
+
+(uvicorn) --> web server so fastapi can be runned on browser
+
+my data is imbalanced data
+so -->
+CLASS WEIGHT IN ADABOOST TO INC THE INC THE WEIGHT MINOR CLASS 
+AND DEC THE WEIGHT OF MAJOR CLASS
+
+SO--->
+imbalaned-learn (lib that offers algorithms to the oversampling ]
+and undersampling concepts)
+
+also
+
+pythn-dotenv
+(.env )
+
+also fastapi needs lib to be installed\--->
+python-multipart (as extention)
